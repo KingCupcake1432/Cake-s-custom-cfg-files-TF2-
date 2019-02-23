@@ -1,2 +1,2 @@
-# Cake-s-custom-cfg-files-TF2-
+# CakesCustomCfgFilesTF2-
 My configs and custom files for TF2.
